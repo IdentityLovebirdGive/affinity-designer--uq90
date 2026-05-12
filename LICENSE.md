@@ -1,4 +1,4 @@
-# 
+# Affinity Designer for macOS instant Brushes: vector tools & real-time preview offers the most advanced Affinity Designer for macOS brush, with vector tools and real-time preview.
 
 
 
